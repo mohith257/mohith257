@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# 💫 About Me: 
 ## Hi, I'm Mohith 👋<br><br>I'm a strategic learner and aspiring developer passionate about **Networking, Java, Python scripting, and blockchain basics**.  <br>I love building **modular revision aids, quick-reference charts, and error-proof strategies** that make complex concepts simple and actionable.  <br><br>🔹 Skilled at troubleshooting workflows and breaking down grammar, idioms, and technical rules into clear guides  <br>🔹 Interested in **cloud technologies (GCP)**, scalable application design, and secure system communication  <br>🔹 Focused on preparing for **internships, GSoC opportunities, and competitive projects** with a future-oriented mindset  <br><br>💡 My approach: clarity, optimization, and pattern recognition — always aiming to turn knowledge into reusable frameworks.
 
 
