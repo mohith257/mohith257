@@ -1,0 +1,44 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- subtle grid/circuit motif, right side, low opacity -->
+  <g opacity="0.10" stroke="#38bdf8" stroke-width="1.5" fill="none">
+    <path d="M 880 40 L 880 90 L 940 90 L 940 140"/>
+    <path d="M 960 30 L 1010 30 L 1010 70"/>
+    <path d="M 1040 60 L 1040 120 L 1090 120"/>
+    <path d="M 900 180 L 950 180 L 950 230 L 1000 230"/>
+    <path d="M 1020 200 L 1020 260 L 1080 260"/>
+    <path d="M 1100 50 L 1140 50 L 1140 110"/>
+    <circle cx="880" cy="40" r="4" fill="#38bdf8" stroke="none"/>
+    <circle cx="940" cy="140" r="4" fill="#38bdf8" stroke="none"/>
+    <circle cx="1010" cy="70" r="4" fill="#38bdf8" stroke="none"/>
+    <circle cx="1090" cy="120" r="4" fill="#38bdf8" stroke="none"/>
+    <circle cx="1000" cy="230" r="4" fill="#38bdf8" stroke="none"/>
+    <circle cx="1080" cy="260" r="4" fill="#38bdf8" stroke="none"/>
+    <circle cx="1140" cy="110" r="4" fill="#38bdf8" stroke="none"/>
+  </g>
+
+  <!-- accent line -->
+  <rect x="80" y="112" width="70" height="6" fill="url(#accent)"/>
+
+  <!-- name -->
+  <text x="80" y="160" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#f8fafc" letter-spacing="1">
+    MOHITH KUMAR M
+  </text>
+
+  <!-- tagline -->
+  <text x="80" y="200" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="400" fill="#94a3b8">
+    Security-Minded Full-Stack Developer
+  </text>
+</svg>
