@@ -1,4 +1,4 @@
-# Mohith Kumar M
+![Banner](./banner.svg)
 
 Security-minded full-stack developer. Final-year Information Science and Engineering student at JSS Academy of Technical Education, Bengaluru.
 
